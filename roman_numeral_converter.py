@@ -129,4 +129,4 @@ if __name__ == '__main__':
             sentence = str(sys.argv[1])
             print(romanToNumber(sentence))
     else:
-        print('USAGE: main.py "<roman numeral/integer"')
+        print('USAGE: roman_numeral_converter.py "<roman numeral/integer"')
